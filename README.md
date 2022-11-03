@@ -2,6 +2,10 @@
 
 A new Flutter application.
 
+<div>
+  <img src="https://github.com/joellpaim/app-frases-do-dia-flutter/blob/master/images/Capture.PNG" alt="Screen">
+</div>
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
