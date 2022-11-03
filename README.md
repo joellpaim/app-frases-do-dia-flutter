@@ -1,10 +1,11 @@
 # frases_do_dia
 
-A new Flutter application.
+An application that generates sentences randomly.
 
 <div>
-  <img src="https://github.com/joellpaim/app-frases-do-dia-flutter/blob/master/images/Capture.PNG" alt="Screen">
+  <img src="https://github.com/joellpaim/app-frases-do-dia-flutter/blob/master/images/Capture.png" alt="Screen" style="width: 300px;">
 </div>
+
 
 ## Getting Started
 
